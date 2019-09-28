@@ -1,24 +1,24 @@
 {
-  "name": "world-s-most-cursed-js-app",
+  "name": "bakend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
   "dependencies": {
-    "express": "^4.17.1",
-    "mysql": "^2.17.1"
+    "url": "^0.11.0"
   },
-  "devDependencies": {},
+  "devDependencies": {  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/osztenkurden/World-s-Most-Cursed-JS-App.git"
+    "url": "git+https://github.com/osztenkurden/bakend.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/osztenkurden/World-s-Most-Cursed-JS-App/issues"
+    "url": "https://github.com/osztenkurden/bakend/issues"
   },
-  "homepage": "https://github.com/osztenkurden/World-s-Most-Cursed-JS-App#readme"
+  "homepage": "https://github.com/osztenkurden/bakend#readme"
 }
