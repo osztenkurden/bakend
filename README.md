@@ -30,3 +30,5 @@ bakend couldn't be done without our dedicated and passionate team of programmers
 ## Support
 bakend is completely free both for personal and commercial usage.
 Thus, we are thankful for all support through donations and sponsorship.
+
+~~ It's a joke, don't use it ~~
